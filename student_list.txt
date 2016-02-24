@@ -1,0 +1,7 @@
+Student ID   First Name   Last Name    Test Score
+
+D14127118    Michael      Basile       20.0        
+C06623662    Mary         Doyle        20.0        
+D11123581    Nora         Hanley       7.0         
+C02887223    Jason        Radecki      8.0         
+D11255403    Eileen       Smith        4.0         
